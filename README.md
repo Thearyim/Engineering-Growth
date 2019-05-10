@@ -4,7 +4,7 @@ When I was of college age, I had just arrived in this country as an immigrant, a
 -Theary
 
 
-* LeetCode  
+* ##### LeetCode  
 
 
     LeetCode really helps me get experience with arrays, dictionaries and other common data structures. I am learning a lot about conditionals, looping construct and exit conditions. I am also learning that you can't assume much of anything with the inputs given to you in a function. I have to check them to account for special cases. Efficiency and memory management matter, so I am being cognizant of writing unnecessary code. I've also found that you can run a heap out of memory just the same.
